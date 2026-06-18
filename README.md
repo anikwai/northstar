@@ -1,5 +1,7 @@
 # Northstar
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A reusable product-design constitution for AI-assisted product development.
 
 Northstar helps LLM coding agents make better product, UX, UI, and engineering decisions by prioritizing:
