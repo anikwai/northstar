@@ -1,5 +1,6 @@
 # Northstar
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/anikwai/northstar/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A reusable product-design constitution for AI-assisted product development.
