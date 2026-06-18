@@ -1,0 +1,25 @@
+---
+description: Northstar product design and UI constitution rules
+globs:
+  - "**/*.tsx"
+  - "**/*.ts"
+  - "**/*.jsx"
+  - "**/*.js"
+alwaysApply: true
+---
+
+Follow AGENTS.md.
+
+Priority order:
+
+1. User goals
+2. Usability
+3. Information architecture
+4. Accessibility
+5. Performance
+6. Visual design
+7. Animation
+
+Do not add UI elements unless they help the user decide, act, avoid mistakes, or understand status.
+
+Use shadcn/ui, TypeScript, Tailwind CSS, lucide-react, and cn().

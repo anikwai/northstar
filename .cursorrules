@@ -1,0 +1,9 @@
+Follow AGENTS.md.
+
+For major UI, UX, or feature work, consult NORTHSTAR.md.
+
+For focused tasks, consult only the relevant document under docs/.
+
+Do not add UI elements unless they help users decide, act, avoid mistakes, or understand status.
+
+Use React, TypeScript, Tailwind CSS, shadcn/ui, lucide-react, and cn().
